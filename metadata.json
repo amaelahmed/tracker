@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Vision Pro",
+  "description": "Show any object to your webcam and Gemini 3 Flash will analyze, identify, and explain it in real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
